@@ -1,0 +1,17 @@
+\documentclass{article}
+
+\begin{document}
+
+AegStat.Blood$C.TTests
+AegStat.Blood$C.PValues
+AegStat.Fec$C.FTTests
+AegStat.Fec$C.FPValues
+
+AlbStat.Blood$C.TTests
+AlbStat.Blood$C.PValues
+AlbStat.Fec$C.FTTests
+AlbStat.Fec$C.FPValues
+
+
+
+\end{document}
